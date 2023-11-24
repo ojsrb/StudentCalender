@@ -1,1 +1,13 @@
-s
+html {
+    font-family: monospace;
+    margin-left: 45px;
+}
+
+h1 {
+    font-size: 48px;
+    margin: 0;
+}
+
+h3 {
+    margin: 0;
+}
